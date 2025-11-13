@@ -1,0 +1,16 @@
+# Core
+gspread>=5.7.0
+google-auth>=2.20.0
+google-auth-httplib2>=0.1.0
+
+# LLM / HTTP
+openai>=1.0.0
+requests>=2.28.0
+
+# Scheduling, timezones, utilities
+APScheduler>=3.10.0
+pytz>=2023.3
+tqdm>=4.65.0
+
+# Optional but recommended for local env file loading
+python-dotenv>=1.0.0
